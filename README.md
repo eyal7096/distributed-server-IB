@@ -6,3 +6,5 @@ we build a distributes server over infiniband. the main idea is that the client 
 
 
 we did this project during course and the guides came from mellanox. we get 96 for this prodect only
+
+last thing, i lost the test files we use, so create new ones, the code not deal with unmatched inputs
